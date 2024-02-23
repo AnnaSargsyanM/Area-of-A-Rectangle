@@ -1,18 +1,4 @@
-//****************************************************************************************************
-//     File:               AreaOfARectangle.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #3
-// 
-//     Course Name:        Programming I
-// 
-//     Course Number:      COSC 1550-01
-// 
-//     Due:                February 3, 2023
-//
-//     This program outputs the message "The area of the rectangle." on the screen.
-//
+//     This program calculates the area of a rectangle.
 //****************************************************************************************************
 
 #include <iostream>
